@@ -1,6 +1,6 @@
 ---
 title: this is a new day
-subtitle: lorem-ipsum
+subtitle: this is a new life
 date: '2021-01-16'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
