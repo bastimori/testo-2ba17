@@ -7,9 +7,9 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 ---
-## Lorem ipsum
+## Lorem ipsum colores
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
